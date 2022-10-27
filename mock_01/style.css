@@ -75,6 +75,9 @@ section.intro .col-md-6 {
 section.intro .icon {
   width: 100px;
 }
+section.intro .content {
+  text-align: left;
+}
 
 section.lineup {
   padding: 0px;
